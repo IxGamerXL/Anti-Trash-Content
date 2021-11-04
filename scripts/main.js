@@ -17,10 +17,15 @@ Vars.content.blocks().each(e => {
 	wl(Blocks.conduit);
 	wl(Blocks.pulseConduit);
 	wl(Blocks.solarPanel);
-	wl(Blocks.solarPanelLarge);
+	wl(Blocks.largeSolarPanel);
 	wl(Blocks.pulverizer);
 	wl(Blocks.melter);
 	wl(Blocks.disassembler);
 	
 	if(Trash) e.buildVisibility = BuildVisibility.hidden; //Trash Disposer
 })
+
+Item.scrap = null;
+UnitTypes.crawler = null;
+UnitTypes.atrax = null;
+UnitTypes.spricot = null;
