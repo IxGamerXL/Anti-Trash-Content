@@ -11,13 +11,17 @@ Vars.content.blocks().each(e => {
 	wl(Blocks.titaniumConveyor);
 	wl(Blocks.router);
 	wl(Blocks.distributor);
+	
 	wl(Blocks.duo);
-	wl(Blocks.differentialGenerator);
 	wl(Blocks.scorch);
+	
 	wl(Blocks.conduit);
 	wl(Blocks.pulseConduit);
+	
 	wl(Blocks.solarPanel);
 	wl(Blocks.largeSolarPanel);
+	wl(Blocks.differentialGenerator);
+	
 	wl(Blocks.pulverizer);
 	wl(Blocks.melter);
 	wl(Blocks.disassembler);
@@ -28,4 +32,4 @@ Vars.content.blocks().each(e => {
 Item.scrap = null;
 UnitTypes.crawler = null;
 UnitTypes.atrax = null;
-UnitTypes.spricot = null;
+UnitTypes.spircot = null;
