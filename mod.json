@@ -3,7 +3,7 @@
     displayName: "Anti Trash Content"
     author: "[yellow]IxGamerXL#6306[] [lightgrey](Block Ban Director: samn't#5602[])"
     description: "Basically, a mod that removes any blocks that\n\n  Is a complete copy\n  Has no useful purpose\n  Is a waste of materials\n  offends Samn't\n\nI decided to make the mod for him since he isn't familiar with Javascript. Any issues he provides himself will be added in due time, unless it wears the utter hell out of me.\n\n[red] For the bestn't experience, play on Campaign (restart campaign on a new file if you haven't already, otherwise you're cheesing it) []"
-    version: "2"
+    version: "2.1"
     repo: "IxGamerXL/Anti-Trash-Content"
     minGameVersion: "126.2"
     hidden: false //Set to false so that the player is pushed to play either with others with the mod, or by themselves.
